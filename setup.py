@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="django_home_urls",
-    version="0.0.1",
+    version="0.1.0",
     author="Yuji Koseki",
     author_email="pxquuqjm0k62new7q4@gmail.com",
     description="Django home urlconf.",
